@@ -1,0 +1,9 @@
+C:\Users\akriv\Dropbox\Playnary\bin\Debug\Playnary.exe.config
+C:\Users\akriv\Dropbox\Playnary\bin\Debug\Playnary.exe
+C:\Users\akriv\Dropbox\Playnary\bin\Debug\Playnary.pdb
+C:\Users\akriv\Dropbox\Playnary\obj\Debug\Playnary.csprojResolveAssemblyReference.cache
+C:\Users\akriv\Dropbox\Playnary\obj\Debug\Playnary.Game.resources
+C:\Users\akriv\Dropbox\Playnary\obj\Debug\Playnary.Properties.Resources.resources
+C:\Users\akriv\Dropbox\Playnary\obj\Debug\Playnary.csproj.GenerateResource.Cache
+C:\Users\akriv\Dropbox\Playnary\obj\Debug\Playnary.exe
+C:\Users\akriv\Dropbox\Playnary\obj\Debug\Playnary.pdb
